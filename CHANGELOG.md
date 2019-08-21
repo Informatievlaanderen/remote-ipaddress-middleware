@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v1.1.1...v1.2.0) (2019-08-21)
+
+
+### Features
+
+* bump to .net 2.2.6 ([ca54e54](https://github.com/informatievlaanderen/remote-ipaddress-middleware/commit/ca54e54))
+
 ## [1.1.1](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v1.1.0...v1.1.1) (2019-04-25)
 
 # [1.1.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v1.0.1...v1.1.0) (2019-04-24)
