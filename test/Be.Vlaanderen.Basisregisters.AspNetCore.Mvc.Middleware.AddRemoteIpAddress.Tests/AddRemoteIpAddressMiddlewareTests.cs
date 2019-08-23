@@ -2,6 +2,7 @@ namespace Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddRemoteIpAddr
 {
     using System.Net;
     using System.Threading.Tasks;
+    using FluentAssertions;
     using Microsoft.AspNetCore.Http;
     using Xunit;
 
@@ -17,7 +18,7 @@ namespace Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddRemoteIpAddr
 
             await middleware.Invoke(context);
 
-            context.User.HasClaim(AddRemoteIpAddressMiddleware.UrnBasisregistersVlaanderenIp, ipString);
+            context.User.HasClaim(AddRemoteIpAddressMiddleware.UrnBasisregistersVlaanderenIp, ipString).Should().BeTrue();
         }
     }
 }
