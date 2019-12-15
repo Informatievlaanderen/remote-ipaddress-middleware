@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.0.0...v2.1.0) (2019-12-15)
+
+
+### Features
+
+* upgrade to netcoreapp31 ([a113124](https://github.com/informatievlaanderen/remote-ipaddress-middleware/commit/a113124736db7fd7dcf08b862132850acf325da9))
+
 # [2.0.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v1.2.1...v2.0.0) (2019-11-18)
 
 
