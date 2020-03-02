@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.2.0...v2.2.1) (2020-03-02)
+
+
+### Bug Fixes
+
+* bump netcore to 3.1.2 ([5c89299](https://github.com/informatievlaanderen/remote-ipaddress-middleware/commit/5c89299549edc27e45400e83312fbfd6c0eac538))
+
 # [2.2.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.1.0...v2.2.0) (2020-01-31)
 
 
