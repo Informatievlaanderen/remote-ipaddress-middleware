@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.2.1...v2.2.2) (2020-05-07)
+
+
+### Bug Fixes
+
+* move to GH-actions ([83de8a3](https://github.com/informatievlaanderen/remote-ipaddress-middleware/commit/83de8a3972bb10f4f6798767dc771add093e339f))
+
 ## [2.2.1](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.2.0...v2.2.1) (2020-03-02)
 
 
