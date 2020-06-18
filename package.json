@@ -1,6 +1,6 @@
 {
   "name": "remote-ipaddress-middleware",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "Middleware component which adds a the remote IP id as a claim `urn:basisregisters:vlaanderen:ip` for the user on the request context.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",
@@ -48,7 +48,10 @@
     ]
   },
   "release": {
-    "branches": [ "master", "main" ],
+    "branches": [
+      "master",
+      "main"
+    ],
     "verifyConditions": [
       "@semantic-release/changelog",
       "@semantic-release/git",
