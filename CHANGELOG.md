@@ -1,3 +1,10 @@
+## [2.2.7](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.2.6...v2.2.7) (2020-11-18)
+
+
+### Bug Fixes
+
+* remove set-env usage in gh-actions ([3b04675](https://github.com/informatievlaanderen/remote-ipaddress-middleware/commit/3b0467505de947dddf35adf99246cddda7e5ac6c))
+
 ## [2.2.6](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.2.5...v2.2.6) (2020-09-21)
 
 
