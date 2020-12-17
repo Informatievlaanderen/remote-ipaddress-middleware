@@ -18,5 +18,5 @@ dependencies
   framework: net5.0
 
 files
-  bin\Release\net5.0\linux-x64\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddRemoteIpAddress.dll => lib\net5.0
-  bin\Release\net5.0\linux-x64\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddRemoteIpAddress.pdb => lib\net5.0
+  bin\Release\net5.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddRemoteIpAddress.dll => lib\net5.0
+  bin\Release\net5.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddRemoteIpAddress.pdb => lib\net5.0
