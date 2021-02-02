@@ -1,3 +1,10 @@
+## [2.2.10](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.2.9...v2.2.10) (2021-02-02)
+
+
+### Bug Fixes
+
+* move to 5.0.2 ([6d276c8](https://github.com/informatievlaanderen/remote-ipaddress-middleware/commit/6d276c88149633e9bf6c989f13c5c37c1406be16))
+
 ## [2.2.9](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.2.8...v2.2.9) (2020-12-17)
 
 
