@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.2.11...v3.0.0) (2022-03-24)
+
+
+### Features
+
+* move to dotnet 6.0.3 ([f7c6725](https://github.com/informatievlaanderen/remote-ipaddress-middleware/commit/f7c6725963d2190bf12e58ee54c09fd1d56ea548))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 6.0.3
+
 ## [2.2.11](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v2.2.10...v2.2.11) (2021-05-28)
 
 
