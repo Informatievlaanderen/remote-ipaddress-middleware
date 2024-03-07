@@ -1,4 +1,4 @@
-# Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddRemoteIpAddress [![Build Status](https://github.com/Informatievlaanderen/remote-ipaddress-middleware/workflows/CI/badge.svg)](https://github.com/Informatievlaanderen/remote-ipaddress-middleware/actions)
+# Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddRemoteIpAddress [![Build Status](https://github.com/Informatievlaanderen/remote-ipaddress-middleware/workflows/Build/badge.svg)](https://github.com/Informatievlaanderen/remote-ipaddress-middleware/actions)
 
 Middleware component which adds a the remote IP id as a claim `urn:be:vlaanderen:vbr:ip` for the user on the request context.
 
