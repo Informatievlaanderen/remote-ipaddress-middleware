@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v4.0.0...v5.0.0) (2025-04-04)
+
+
+### Code Refactoring
+
+* use renovate and nuget + update pipeline ([6f64b86](https://github.com/informatievlaanderen/remote-ipaddress-middleware/commit/6f64b8631da5fca0b09637f4cc5e3342c7b62f7e))
+
+
+### BREAKING CHANGES
+
+* update to dotnet 9
+
 # [4.0.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v3.0.0...v4.0.0) (2024-03-07)
 
 
