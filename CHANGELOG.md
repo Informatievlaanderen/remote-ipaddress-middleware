@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v5.0.0...v5.1.0) (2026-06-01)
+
+
+### Features
+
+* update packages ([330a786](https://github.com/informatievlaanderen/remote-ipaddress-middleware/commit/330a786c6ab73726dfd23df893134c0dbe18651f))
+
 # [5.0.0](https://github.com/informatievlaanderen/remote-ipaddress-middleware/compare/v4.0.0...v5.0.0) (2025-04-04)
 
 
